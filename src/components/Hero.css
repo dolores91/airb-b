@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;300;400;600;700&display=swap');
+
+.hero-h1{
+    text-align: left;
+width: 347px;
+height: 40px;
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 36px;
+line-height: 110%;
+/* identical to box height, or 40px */
+color: black;
+}
+.hero-h3{
+    width: 320px;
+height: 56px;
+left: 36px;
+top: 416px;
+text-align: left;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 300;
+font-size: 16px;
+line-height: 110%;
+/* or 18px */
+
+
+color: #222222;
+}
